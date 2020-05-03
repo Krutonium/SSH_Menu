@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sshmenu", "sshmenu\sshmenu.csproj", "{70744720-BD11-4B03-8CDF-95BAA86B6A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70744720-BD11-4B03-8CDF-95BAA86B6A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70744720-BD11-4B03-8CDF-95BAA86B6A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70744720-BD11-4B03-8CDF-95BAA86B6A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70744720-BD11-4B03-8CDF-95BAA86B6A89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
